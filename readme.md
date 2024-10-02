@@ -12,13 +12,17 @@
   Il existe 3 branches GitFlow, Gitmoji et Plan Type afin de répartire le travaille entre les 3 personnes.
 
 - ### Issues
+
   Pour vérifier l'avancement de chacuns, des issues ont été créée
+
   Aperçu :
 
 ![Cover](images/Issues.png)
 
 - ### Milestones
+
   Les issues sont mises dans une milestones pour voir l'avancé du repository
+
   Aperçu :
 
 ![Cover](images/Milestones.png)
