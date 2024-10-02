@@ -23,4 +23,6 @@ Ici vous touverez quelques exemples de gitmoji existant avec leurs signification
 
 Il en existe encore plein d'autres... 
 
-Voici un exemple concret : 
+Voici un exemple concret :
+
+ - ![Cover](images/Gitmoji.png)
