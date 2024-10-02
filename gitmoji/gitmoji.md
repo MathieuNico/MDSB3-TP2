@@ -19,4 +19,8 @@ Ici vous touverez quelques exemples de gitmoji existant avec leurs signification
 
 - 🎨 : Improve structure format of the code 
 - 🔧 : Add or update configuration files
-- 
+- 🐛 : Fix a bug
+
+Il en existe encore plein d'autres... 
+
+Voici un exemple concret : 
